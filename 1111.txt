@@ -1,0 +1,31 @@
+hibernate link
+rdbms
+test cases-> mockito
+BDD
+
+
+------
+DB xml and properties file.
+      YAML (.yml) File: YAML is a configuration language. Languages like Python, Ruby, Java heavily use it for configuring the various properties while developing the applications.
+     .properties File: This file extension is used for the configuration application. These are used as the Property Resource Bundles files in technologies like Java, etc.
+------
+all annotation 
+
+
+
+
+-------------
+role of jpa
+      The Java Persistence API (JPA) is one possible approach to ORM. Via JPA the developer can map, store, update and retrieve data from relational databases to Java objects and vice versa. JPA can be used in Java-EE and Java-SE applications. JPA is a specification and several implementations are available.
+
+
+hibernate
+Hibernate is one of the popular implementations of JPA. Hibernate understands the mappings that we add between objects and tables. It ensures that data is stored/retrieved from the database based on the mappings. Hibernate also provides additional features on top of JPA
+restful conditions
+protocol
+--------
+
+test cases
+ml file
+----
+memory footprint
